@@ -21,7 +21,7 @@ def clean_data(raw_data):
     raw_data = re.sub(r'[^\s\w]', " ",raw_data) 
     raw_data = re.sub(r"[^a-zA-Z0-9]+", " ",raw_data) 
     
-    # raw_data=re.sub('(\\b[A-Za-z] \\b|\\b [A-Za-z]\\b)', '', raw_data)
+    raw_data=re.sub('(\\b[A-Za-z] \\b|\\b [A-Za-z]\\b)', '', raw_data)
     return raw_data
 
 
