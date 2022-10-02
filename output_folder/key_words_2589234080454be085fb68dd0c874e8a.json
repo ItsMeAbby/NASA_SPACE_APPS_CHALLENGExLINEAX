@@ -1,0 +1,86 @@
+{
+    ".\\nasa_dataset\\19690031409.pdf": {
+        "timoshenko beam": 10,
+        "beam bellcomm": 3,
+        "branch points": 9,
+        "applied mechanics": 10,
+        "timoshenko equations": 3,
+        "beam theory": 3,
+        "beam equations": 1,
+        "boundary conditions": 7,
+        "strong decoupling": 8,
+        "beam dynamics": 3
+    },
+    ".\\nasa_dataset\\19690031423.pdf": {
+        "object field": 11,
+        "object velocity": 7,
+        "observation time": 12,
+        "object motion": 6,
+        "object geometry": 5,
+        "experiment results": 6,
+        "object": 81,
+        "object equation": 1,
+        "distribution function": 8,
+        "fraunhofer holography": 7
+    },
+    ".\\nasa_dataset\\19690031454.pdf": {
+        "oxidizer tank": 67,
+        "fuel tank": 44,
+        "pressure psig": 30,
+        "propellant tank": 26,
+        "tank pressure": 11,
+        "component test": 12,
+        "tank diaphragm": 13,
+        "vapor pressure": 26,
+        "tank outlet": 23,
+        "chamber valves": 17
+    },
+    ".\\nasa_dataset\\19690031486.pdf": {
+        "object plane": 19,
+        "function sampling": 7,
+        "square error": 15,
+        "aperture field": 8,
+        "object radiance": 3,
+        "object light": 4,
+        "radiance samples": 5,
+        "diagonal elements": 8,
+        "object field": 3,
+        "object object": 1
+    },
+    ".\\nasa_dataset\\19690031539.pdf": {
+        "streamwise section": 37,
+        "lift drag": 17,
+        "drag ratio": 17,
+        "keel length": 7,
+        "flexible parawing": 12,
+        "test section": 5,
+        "inertial properties": 12,
+        "inflated keel": 5,
+        "inertia slugs": 6,
+        "shape data": 6
+    },
+    ".\\nasa_dataset\\19690031546.pdf": {
+        "radiation resistance": 62,
+        "acoustic medium": 42,
+        "wave equation": 19,
+        "mode shapes": 41,
+        "cylindrical shell": 33,
+        "shell material": 23,
+        "dimensionless radiation": 14,
+        "shell surface": 8,
+        "shell fluid": 7,
+        "radiation condition": 13
+    },
+    ".\\nasa_dataset\\19690031548.pdf": {
+        "cable mount": 22,
+        "aileron effectiveness": 23,
+        "mount system": 24,
+        "roll rate": 24,
+        "reversal boundary": 22,
+        "dynamic pressures": 15,
+        "flight roll": 11,
+        "model dynamic": 6,
+        "scaled model": 9,
+        "aileron reversal": 7
+    }
+}
